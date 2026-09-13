@@ -36,7 +36,7 @@
 
 // Settings
 #define BQ_ADDR_1 0x08
-#define I2C_SPEED 100000
+#define I2C_SPEED 10000
 
 // Macros
 #define M_CELLS (m_cells_ic1)
